@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @mitulmj
 - 👀 I’m interested in php & javascript
 - 🌱 I’m currently learning 
-- 💞️ 
-- 📫 mitulkhushi69@gmail.com
+- 📫 mj695067gmail.com
 
 <!---
 mitulmj/mitulmj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
